@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/gssrinivas23/Pocdemodockeronazuredevops/_apis/build/status/gssrini23.pipelines-dotnet-core)](https://dev.azure.com/gssrinivas23/Pocdemodockeronazuredevops/_build/latest?definitionId=41)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
